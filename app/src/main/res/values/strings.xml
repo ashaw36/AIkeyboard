@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App names -->
+    <string name="app_name">AI键盘</string>
+    <string name="keyboard_name">AI键盘</string>
+    <string name="settings_name">AI键盘设置</string>
+
+    <!-- Keyboard keys -->
+    <string name="key_delete">删除</string>
+    <string name="key_space">空格</string>
+    <string name="key_enter">换行</string>
+    <string name="key_shift">切换</string>
+    <string name="key_symbol">符号</string>
+    <string name="key_abc">ABC</string>
+    <string name="key_numbers">123</string>
+
+    <!-- AI features -->
+    <string name="ai_rewrite">改写</string>
+    <string name="ai_polish">润色</string>
+    <string name="ai_formal">正式化</string>
+    <string name="ai_simplify">精简</string>
+    <string name="ai_continue">续写</string>
+    <string name="ai_translate">翻译</string>
+    <string name="ai_loading">AI思考中...</string>
+    <string name="ai_error">请求失败，请检查网络和API配置</string>
+    <string name="ai_no_selection">请先选中文本</string>
+
+    <!-- Settings -->
+    <string name="settings_ai_service">AI服务配置</string>
+    <string name="settings_api_key">API Key</string>
+    <string name="settings_api_key_hint">请输入您的API Key</string>
+    <string name="settings_service_type">AI服务类型</string>
+    <string name="settings_deepseek">DeepSeek</string>
+    <string name="settings_custom">自定义API</string>
+    <string name="settings_base_url">API地址</string>
+    <string name="settings_base_url_hint">https://api.deepseek.com</string>
+    <string name="settings_model">模型</string>
+    <string name="settings_test_connection">测试连接</string>
+
+    <string name="settings_keyboard">键盘设置</string>
+    <string name="settings_theme">主题</string>
+    <string name="settings_theme_light">浅色</string>
+    <string name="settings_theme_dark">深色</string>
+    <string name="settings_theme_system">跟随系统</string>
+    <string name="settings_vibrate">按键震动</string>
+    <string name="settings_sound">按键音效</string>
+    <string name="settings_height">键盘高度</string>
+
+    <string name="settings_ai_features">AI功能</string>
+    <string name="settings_enable_rewrite">启用智能改写</string>
+    <string name="settings_enable_continue">启用AI续写</string>
+    <string name="settings_auto_suggest">自动续写建议</string>
+
+    <string name="settings_about">关于</string>
+    <string name="settings_version">版本</string>
+    <string name="settings_version_name">1.0.0</string>
+    <string name="settings_tutorial">使用教程</string>
+    <string name="settings_privacy">隐私政策</string>
+
+    <!-- Messages -->
+    <string name="msg_save_success">保存成功</string>
+    <string name="msg_api_test_success">连接成功！</string>
+    <string name="msg_api_test_failed">连接失败：%s</string>
+    <string name="msg_enable_keyboard">请在系统设置中启用AI键盘</string>
+
+    <!-- Tutorial -->
+    <string name="tutorial_title">使用说明</string>
+    <string name="tutorial_step1">1. 在系统设置中启用"AI键盘"</string>
+    <string name="tutorial_step2">2. 切换输入法为"AI键盘"</string>
+    <string name="tutorial_step3">3. 在设置中填写API Key</string>
+    <string name="tutorial_step4">4. 选中文本后使用AI改写功能</string>
+    <string name="tutorial_step5">5. 点击续写按钮使用AI续写功能</string>
+</resources>
